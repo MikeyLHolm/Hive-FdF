@@ -23,4 +23,5 @@ a parameter to your program.
 ## ToDo
 * Proper image rotation
 
-Completed 18.12.2019.
+
+_Completed 18.12.2019._
