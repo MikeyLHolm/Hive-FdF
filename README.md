@@ -2,7 +2,7 @@
 This Wireframe project is about creating a simplified 3D graphic representation of a relief landscape.
 "Wireframe" = fils de fer in French, hence the name of the project.
 
-![](https://github.com/MikeyLHolm/Hive-FdF/blob/master/fdf_map_pylone.png =250x250)
+![](https://github.com/MikeyLHolm/Hive-FdF/blob/master/fdf_map_pylone.png)
 
 ## Objectives
 In this project you will discover the basics of graphic programming, and in particular how
