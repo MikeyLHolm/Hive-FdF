@@ -2,6 +2,8 @@
 This Wireframe project is about creating a simplified 3D graphic representation of a relief landscape.
 "Wireframe" = fils de fer in French, hence the name of the project.
 
+![Image of test map Pylone](https://github.com/MikeyLHolm/Hive-FdF/blob/master/fdf_map_pylone.png =250x250)
+
 ## Objectives
 In this project you will discover the basics of graphic programming, and in particular how
 to place points in space, how to join them with segments and most importantly how to
@@ -22,6 +24,7 @@ a parameter to your program.
 
 ## ToDo
 * Proper image rotation
+
 
 
 _Completed 18.12.2019._
